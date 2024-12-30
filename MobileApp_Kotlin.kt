@@ -43,13 +43,10 @@ class ViewPagerAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapte
 }
 
 class VideosFragment : Fragment(R.layout.fragment_videos) {
-    // Implement video list here
 }
 
 class BooksFragment : Fragment(R.layout.fragment_books) {
-    // Implement books list here
 }
 
 class BlogsFragment : Fragment(R.layout.fragment_blogs) {
-    // Implement blogs list here
 }
